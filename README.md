@@ -35,8 +35,8 @@ Each round you can one of six possible actions:
   - Roll a magic dice that deals 6,000 damage to the dragon if it lands on a six
 
 ## Demo Video
+<video src="https://github.com/user-attachments/assets/5f820d52-3fed-4132-8402-7526173a52dd"></video>
 
-https://github.com/user-attachments/assets/5f820d52-3fed-4132-8402-7526173a52dd
 ---
 
 ###### thanks for reading

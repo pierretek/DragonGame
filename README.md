@@ -6,7 +6,7 @@ A simple text-based game about fighting a dragon in a boss fight
 - Main class is in `src/main/Main.java`
 - The entire game is within a single java file
 - Each turn the dragon can either heal itself, or attack you
-- After that, you can pick from six possible actions to respond
+- After that, you can pick from five possible actions to respond
 - Reduce the dragon’s health to zero before it does the same to you!
 
 ## Requirements 
@@ -22,7 +22,7 @@ A simple text-based game about fighting a dragon in a boss fight
 *If you want to build this project yourself, you can clone this repo and import it into Netbeans as a project.*
 
 ## Actions
-Each round you can one of six possible actions:
+Each round you can one of five possible actions:
 - **1 - Attack**
   - Directly attack and damage the dragon with your sword
 - **2 - Heal**

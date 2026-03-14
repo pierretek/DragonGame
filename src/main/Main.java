@@ -1,16 +1,15 @@
-package gr11.culm;
+package main;
 
 
 /*
 *Programmer: Pierre Awad
 *Date: June 7 2022
-*Description: For Culminating I'm making an RGP Game
-about Slaying a Dragon
+*Description: an RPG Game about Slaying a Dragon
 */
 import java.util.Scanner;
 import java.text.*;
 
-class Gr11Culm {
+class Main {
 
   public static void main(String[] args) {
 

@@ -14,7 +14,7 @@ A simple text-based game about fighting a dragon in a boss fight
 - *Netbeans IDE (if you wanna build it yourself)*
 
 ## How to Run
-1. Download `DragonGame-Playable.zip` from [releases](https://github.com/pierretek/JFramery/releases/tag/playable)
+1. Download `DragonGame-Playable.zip` from [releases](https://github.com/pierretek/DragonGame/releases/tag/dragon-game)
 2. Extract it and open the folder in a terminal
 3. Run ``java -jar DragonGame.jar`` to run the jar file
 4. Enjoy!
